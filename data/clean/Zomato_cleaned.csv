@@ -1,0 +1,781 @@
+name,online_order,book_table,rate,votes,approx_cost,restaurant_type
+Cafe Vivacity,Yes,No,3.8,87,650,Cafes
+Chatar Patar,No,No,3.7,59,330,Dining
+Timepass Dinner,Yes,No,3.8,275,540,Buffet
+T3H Cafe,No,No,3.9,85,300,Cafes
+Faasos,Yes,No,4.2,385,500,Other
+Domino's Pizza,Yes,No,3.9,560,800,Dining
+Empire Restaurant,Yes,No,4.4,5016,750,Other
+Ovenstory Pizza,Yes,No,3.9,169,750,Dining
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4,0,150,Dining
+Sri Sai Tiffannies,No,No,3.3,0,150,Dining
+Onesta,Yes,Yes,4.6,2344,540,Cafes
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,558,150,Dining
+LSD Cafe,No,No,2.9,85,630,Other
+Goa 0 Km,Yes,Yes,3.6,147,800,Dining
+360 Atoms Restaurant And Cafe,Yes,No,3.1,12,400,Cafes
+Jeet Restaurant,No,Yes,4.0,779,850,Dining
+Vaishali Deluxe,No,No,3.8,43,770,Dining
+Gustoes Beer House,No,No,4.1,902,630,Dining
+Empire Restaurant,Yes,No,4.4,5357,750,Other
+Gustoes Beer House,No,No,4.1,871,630,Dining
+Cafe Vivacity,Yes,No,3.8,98,580,Cafes
+Petoo,No,No,3.7,21,500,Dining
+Floured-Baked With Love,No,No,3.8,49,360,Dining
+The Big O Bakes,No,No,4.0,69,330,Dining
+Nandhini Deluxe,No,No,2.6,287,600,Dining
+Grand Village,No,No,3.8,165,660,Buffet
+Mane Thindi,No,No,3.7,130,200,Dining
+The Biryani Cafe,No,No,4.1,512,330,Dining
+Bengaluru Coffee House,Yes,No,4.1,208,300,Dining
+Fast And Fresh,Yes,No,2.8,95,360,Dining
+Village Café,Yes,No,4.1,378,550,Cafes
+Aramane Donne Biriyani,No,No,2.9,0,150,Dining
+Hide Out Cafe,No,No,3.7,29,300,Cafes
+T3H Cafe,No,No,3.9,87,300,Cafes
+Just Bake,No,No,3.4,8,400,Dining
+Tasty Bytes,Yes,No,3.1,230,300,Dining
+Beijing Bites,Yes,No,3.7,725,760,Dining
+The Vintage Cafe,Yes,No,3.0,57,440,Cafes
+Naveen Kabab & Biriyani Mane,No,No,3.2,9,330,Dining
+XO Belgian Waffle,Yes,No,3.7,17,400,Dining
+Melting Melodies,No,No,3.3,0,100,Dining
+Kaggis,No,No,3.8,64,250,Dining
+Biryanis And More,Yes,No,4.0,625,680,Dining
+Devanna Dum Biriyani Centre,Yes,No,3.6,29,330,Dining
+Goa 0 Km,Yes,Yes,3.6,176,880,Dining
+Sea Green Cafe,No,No,3.3,4,450,Cafes
+Swathi Cool Point,No,No,4.1,0,200,Dining
+Vaishali Deluxe,No,No,3.8,39,700,Dining
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4,0,140,Dining
+CAFE NOVA,No,No,3.2,11,540,Cafes
+Hide Out Cafe,No,No,3.7,28,300,Cafes
+Vi Ra's Bar and Restaurant,No,No,3.3,63,720,Dining
+CAFE NOVA,No,No,3.2,12,600,Dining
+My Tea House,Yes,No,3.6,62,600,Cafes
+Redberrys,Yes,No,4.0,219,600,Cafes
+Wood Stove,No,No,3.4,0,160,Dining
+Village Café,Yes,No,4.1,402,500,Cafes
+Onesta,Yes,Yes,4.6,2420,540,Other
+Petoo,No,No,3.7,23,500,Dining
+Kulfi & More,No,No,3.4,0,150,Dining
+Roving Feast,No,No,4.0,1047,450,Dining
+Ovenstory Pizza,Yes,No,3.9,155,830,Dining
+Caf-Eleven,No,No,4.0,422,500,Cafes
+Darkolates,No,No,3.3,0,220,Dining
+Biryanis And More,Yes,No,4.0,574,680,Dining
+Soms Kitchen & Bakes,No,No,2.9,0,360,Dining
+Hari Super Sandwich,No,No,3.2,0,180,Dining
+The Good Bowl,Yes,No,3.6,6,500,Dining
+Hotel Andhra Speices,No,No,2.9,0,220,Dining
+Coffee Shopee,No,No,3.4,0,250,Dining
+Parjanya Chat Zone,No,No,3.3,18,200,Dining
+Nandhini Deluxe,No,No,2.6,289,600,Dining
+Aarush's Food Plaza,No,No,3.4,0,200,Dining
+Onesta,Yes,Yes,4.6,2566,540,Other
+Maruthi Davangere Benne Dosa,Yes,No,4.0,17,150,Dining
+Vi Ra's Bar and Restaurant,No,No,3.3,58,800,Dining
+Peppy Peppers,No,No,4.2,254,880,Other
+Namma Brahmin's Idli,Yes,No,3.6,34,100,Dining
+Swathi Cool Point,No,No,4.1,0,220,Dining
+Gustoes Beer House,No,No,4.1,868,700,Dining
+Corner House Ice Cream,No,No,4.3,331,400,Dining
+Addhuri Udupi Bhojana,No,No,3.7,85,330,Buffet
+Foodlieious Multi Cuisine,No,No,3.4,0,110,Dining
+Swathi Cool Point,No,No,4.1,0,180,Dining
+Petoo,No,No,3.7,22,450,Dining
+Sri Murari Family Restaurant,No,No,2.9,0,280,Dining
+Sweet Truth,Yes,No,3.9,38,550,Dining
+Banashankari Donne Biriyani,Yes,No,3.8,104,270,Dining
+Sugar Rush,No,No,3.8,36,270,Dining
+Parjanya Chat Zone,No,No,3.3,16,220,Dining
+Srinathji's Cafe,No,No,3.8,159,600,Cafes
+Foodiction,Yes,No,2.8,508,450,Other
+Coffee Bytes,No,No,3.1,6,90,Dining
+Dessert Rose,No,No,3.5,7,500,Dining
+Jeet Restaurant,No,Yes,4.0,808,850,Dining
+Woodee Pizza,Yes,No,3.7,167,550,Cafes
+Cake Bite,No,No,3.4,0,270,Dining
+Chickpet Donne Biryani House,No,No,3.7,20,220,Dining
+Gustoes Beer House,No,No,4.1,920,770,Dining
+San Churro Cafe,Yes,No,3.8,844,880,Cafes
+Penthouse Cafe,Yes,No,4.0,306,700,Other
+Cuppa,No,No,3.3,23,550,Cafes
+Vaishali Deluxe,No,No,3.8,40,630,Dining
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4,0,160,Dining
+Wamama,Yes,Yes,4.2,372,800,Other
+Maruthi Davangere Benne Dosa,Yes,No,4.0,17,140,Dining
+Cuppa,No,No,3.3,23,500,Cafes
+Grand Village,No,No,3.8,162,600,Buffet
+Annapooraneshwari Mess,No,No,3.7,0,220,Dining
+Vi Ra's Bar and Restaurant,No,No,3.3,59,720,Dining
+Meghana Foods,Yes,No,4.4,4401,600,Dining
+Namma Brahmin's Idli,Yes,No,3.6,34,90,Dining
+Foodlieious Multi Cuisine,No,No,3.4,0,100,Dining
+Om Sri Vinayaka Chats,No,No,3.6,0,550,Dining
+Empire Restaurant,Yes,No,4.4,5097,830,Other
+Petoo,No,No,3.7,20,400,Dining
+Onesta,Yes,Yes,4.6,2560,660,Cafes
+Faasos,Yes,No,4.2,429,550,Other
+Chinese Kitchen,Yes,No,3.8,56,140,Dining
+Cafe Shuffle,Yes,Yes,4.2,155,540,Cafes
+K27 - The Pub,No,No,3.1,28,900,Dining
+CAFE NOVA,No,No,3.2,12,540,Cafes
+Spice 9,No,No,3.4,9,330,Dining
+Ovenstory Pizza,Yes,No,3.9,178,750,Dining
+Just Bake,No,No,3.4,9,400,Dining
+Jalsa,Yes,Yes,4.1,747,880,Buffet
+Gawdaru Mane Beriyani,No,No,3.3,0,330,Dining
+Sugar Rush,No,No,3.8,42,300,Dining
+FreshMenu,Yes,No,3.9,627,450,Dining
+Bengaluru Coffee House,Yes,No,4.1,201,300,Dining
+Hari Super Sandwich,No,No,3.2,0,200,Dining
+CAFE NOVA,No,No,3.2,11,600,Cafes
+Spicy Tandoor,No,No,4.1,0,150,Dining
+Onesta,Yes,Yes,4.6,2556,600,Other
+Faasos,Yes,No,4.2,453,450,Other
+Naveen Kabab & Biriyani Mane,No,No,3.2,9,270,Dining
+Srinathji's Cafe,No,No,3.8,143,500,Cafes
+Just Bake,No,No,3.4,8,360,Dining
+Sri Sai Tiffannies,No,No,3.3,0,160,Dining
+Fast And Fresh,Yes,No,2.8,88,360,Dining
+The Vintage Cafe,Yes,No,3.0,63,440,Cafes
+New Indraprasta,No,No,3.3,0,160,Dining
+Grand Village,No,No,3.8,168,540,Buffet
+Wood Stove,No,No,3.4,0,150,Dining
+Sri Sai Tiffannies,No,No,3.3,0,140,Dining
+Hide Out Cafe,No,No,3.7,29,330,Cafes
+Kitchen Garden,Yes,No,3.6,223,330,Dining
+Kabab Magic,Yes,No,4.1,1674,440,Dining
+LSD Cafe,No,No,2.9,83,700,Other
+Peppy Peppers,No,No,4.2,244,800,Other
+Hotel Andhra Speices,No,No,2.9,0,250,Dining
+Chatar Patar,No,No,3.7,66,270,Dining
+Biryanis And More,Yes,No,4.0,561,750,Dining
+The Big O Bakes,No,No,4.0,71,330,Dining
+New Indraprasta,No,No,3.3,0,140,Dining
+San Churro Cafe,Yes,No,3.8,845,880,Buffet
+Banashankari Nati Style,No,No,2.9,0,350,Dining
+Just Bake,No,No,3.4,9,360,Dining
+Mohitesh Hut Roll,No,No,3.3,0,140,Dining
+Spice Elephant,Yes,No,4.1,745,720,Buffet
+Chatar Patar,No,No,3.7,69,300,Dining
+Coffee Shopee,No,No,3.4,0,280,Dining
+Caf-Eleven,No,No,4.0,449,450,Cafes
+Kitchen Garden,Yes,No,3.6,224,330,Dining
+Recipe,Yes,No,4.0,842,450,Dining
+Coffee Tindi,Yes,No,3.8,74,180,Cafes
+Parjanya Chat Zone,No,No,3.3,16,180,Dining
+Corner House Ice Cream,No,No,4.3,369,400,Dining
+Wamama,Yes,Yes,4.2,341,720,Other
+Cakes & Slices,No,No,3.5,14,270,Dining
+Jalsa,Yes,Yes,4.1,721,880,Buffet
+Ruchi Maayaka,No,No,3.3,7,110,Dining
+Melting Melodies,No,No,3.3,0,90,Dining
+Peppy Peppers,No,No,4.2,248,800,Other
+Spice Elephant,Yes,No,4.1,815,880,Buffet
+Vijayalakshmi,Yes,No,3.9,43,200,Dining
+Jalsa,Yes,Yes,4.1,702,720,Buffet
+Chill Out,No,No,3.8,0,90,Dining
+Thanishka Nati And Karavali Style,No,No,3.1,0,440,Dining
+T3H Cafe,No,No,3.9,93,300,Cafes
+Floured-Baked With Love,No,No,3.8,41,360,Dining
+Recipe,Yes,No,4.0,747,500,Dining
+Annapooraneshwari Mess,No,No,3.7,0,180,Dining
+Domino's Pizza,Yes,No,3.9,558,800,Dining
+Shree Cool Point,Yes,No,4.1,29,160,Dining
+Kolbeh,No,No,3.7,22,500,Dining
+Srinathji's Cafe,No,No,3.8,148,550,Cafes
+Polar Bear,Yes,No,3.8,77,360,Dining
+CAFE NOVA,No,No,3.2,10,660,Dining
+Szechuan Dragon,Yes,No,4.2,1503,660,Dining
+Behrouz Biryani,Yes,No,3.9,218,580,Dining
+Darbar,No,No,3.0,93,720,Dining
+Sunsadm,No,No,3.7,0,360,Dining
+Kabab Magic,Yes,No,4.1,1720,400,Dining
+Swaada Healthy Kitchen,No,No,3.3,0,350,Dining
+Kulfi & More,No,No,3.4,0,160,Dining
+Burger King,Yes,No,3.2,69,600,Dining
+Burger King,Yes,No,3.2,76,660,Dining
+Burger King,Yes,No,3.2,68,600,Dining
+Soms Kitchen & Bakes,No,No,2.9,0,440,Dining
+Roll Magic Fast Food,No,No,3.4,0,180,Dining
+Addhuri Udupi Bhojana,No,No,3.7,87,300,Buffet
+Kidambi's Kitchen,No,No,3.5,48,270,Dining
+Coffee Tindi,Yes,No,3.8,70,200,Cafes
+Tasty Bytes,Yes,No,3.1,245,300,Dining
+Kidambi's Kitchen,No,No,3.5,55,270,Dining
+San Churro Cafe,Yes,No,3.8,918,800,Buffet
+Darbar,No,No,3.0,104,880,Dining
+The Vintage Cafe,Yes,No,3.0,60,400,Cafes
+Sweet Truth,Yes,No,3.9,32,550,Dining
+Floured-Baked With Love,No,No,3.8,46,400,Dining
+Parimala Sweets,No,No,3.5,14,200,Dining
+Kotian Karavali Restaurant,No,No,3.5,11,270,Dining
+Ovenstory Pizza,Yes,No,3.9,172,750,Dining
+Foodiction,Yes,No,2.8,506,500,Other
+Kadalu Sea Food Restaurant,Yes,No,3.8,143,450,Dining
+Kidambi's Kitchen,No,No,3.5,56,330,Dining
+Vaishali Deluxe,No,No,3.8,45,770,Dining
+San Churro Cafe,Yes,No,3.8,948,800,Buffet
+Addhuri Udupi Bhojana,No,No,3.7,88,300,Buffet
+Cakes & Slices,No,No,3.5,13,300,Dining
+Vi Ra's Bar and Restaurant,No,No,3.3,65,720,Dining
+Kidambi's Kitchen,No,No,3.5,54,330,Dining
+Katriguppe Donne Biryani,No,No,3.2,4,300,Dining
+Biryanis And More,Yes,No,4.0,585,830,Dining
+Devanna Dum Biriyani Centre,Yes,No,3.6,28,300,Dining
+Chill Out,No,No,3.8,0,100,Dining
+Bengaluru Coffee House,Yes,No,4.1,212,330,Dining
+Srinathji's Cafe,No,No,3.8,145,550,Cafes
+Petoo,No,No,3.7,22,400,Dining
+Parimala Sweets,No,No,3.5,14,220,Dining
+Petoo,No,No,3.7,22,500,Dining
+My Tea House,Yes,No,3.6,56,540,Cafes
+Redberrys,Yes,No,4.0,202,600,Cafes
+Addhuri Udupi Bhojana,No,No,3.7,79,270,Buffet
+Timepass Dinner,Yes,No,3.8,286,600,Buffet
+Chinese Kitchen,Yes,No,3.8,57,160,Dining
+Ayda Persian Kitchen,No,No,3.7,39,950,Dining
+Recipe,Yes,No,4.0,805,500,Dining
+Kirthi's Biryani,Yes,No,3.8,144,700,Cafes
+Vaishali Deluxe,No,No,3.8,41,630,Dining
+Biryanis And More,Yes,No,4.0,676,750,Dining
+Thanishka Nati And Karavali Style,No,No,3.1,0,360,Dining
+Gustoes Beer House,No,No,4.1,885,700,Dining
+Kannadigas Karavali,No,No,3.4,0,250,Dining
+Five Star Chicken,No,No,3.6,52,220,Dining
+Jalsa,Yes,Yes,4.1,739,720,Buffet
+Woodee Pizza,Yes,No,3.7,167,450,Cafes
+Smacznego,Yes,No,4.2,504,550,Cafes
+Faasos,Yes,No,4.2,430,500,Other
+The Big O Bakes,No,No,4.0,62,300,Dining
+Frozen Bottle,Yes,No,4.2,146,400,Dining
+Kolbeh,No,No,3.7,20,450,Dining
+Chatar Patar,No,No,3.7,67,300,Dining
+Catch-up-ino,Yes,No,3.9,120,800,Cafes
+The Biryani Cafe,No,No,4.1,540,270,Dining
+San Churro Cafe,Yes,No,3.8,998,800,Buffet
+Recipe,Yes,No,4.0,847,450,Dining
+Kitchen Garden,Yes,No,3.6,246,300,Dining
+Fast And Fresh,Yes,No,2.8,92,400,Dining
+XO Belgian Waffle,Yes,No,3.7,16,360,Dining
+Mohitesh Hut Roll,No,No,3.3,0,160,Dining
+Polar Bear,Yes,No,3.8,77,400,Dining
+Szechuan Dragon,Yes,No,4.2,1721,660,Dining
+LSD Cafe,No,No,2.9,87,770,Other
+Wamama,Yes,Yes,4.2,359,880,Other
+The Big O Bakes,No,No,4.0,64,270,Dining
+Darbar,No,No,3.0,102,800,Dining
+Wamama,Yes,Yes,4.2,383,720,Other
+Kulfi & More,No,No,3.4,0,140,Dining
+Kirthi's Biryani,Yes,No,3.8,131,700,Cafes
+Onesta,Yes,Yes,4.6,2556,600,Cafes
+New Mangalore Lunch Home,No,No,3.3,7,200,Dining
+Polar Bear,Yes,No,3.8,74,440,Dining
+Catch-up-ino,Yes,No,3.9,144,800,Cafes
+Timepass Dinner,Yes,No,3.8,265,660,Buffet
+Hotboxit,No,No,3.8,37,360,Dining
+Szechuan Dragon,Yes,No,4.2,1787,600,Dining
+Sri Murari Family Restaurant,No,No,2.9,0,220,Dining
+Vijayalakshmi,Yes,No,3.9,46,180,Dining
+Chickpet Donne Biryani House,No,No,3.7,19,250,Dining
+Burger King,Yes,No,3.2,75,600,Dining
+Cafe Shuffle,Yes,Yes,4.2,162,600,Cafes
+Cafe Coffee Day,No,No,3.6,31,810,Cafes
+Kitchen Garden,Yes,No,3.6,258,330,Dining
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4,0,140,Dining
+Sea Green Cafe,No,No,3.3,4,500,Cafes
+The Coffee Shack,Yes,Yes,4.2,173,550,Cafes
+360 Atoms Restaurant And Cafe,Yes,No,3.1,13,400,Cafes
+Amma - Manae,No,No,3.1,0,440,Dining
+Atithi Point Ande Ka Funda,No,No,3.1,26,140,Dining
+Village Café,Yes,No,4.1,402,550,Cafes
+San Churro Cafe,Yes,No,3.8,943,720,Cafes
+Upahar Sagar,No,No,3.8,39,350,Dining
+Kotian Karavali Restaurant,No,No,3.5,11,330,Dining
+Empire Restaurant,Yes,No,4.4,4502,750,Other
+Havyaka Mess,No,No,3.9,27,300,Dining
+Banashankari Nati Style,No,No,2.9,0,320,Dining
+Empire Restaurant,Yes,No,4.4,4545,830,Other
+Thanco's Natural Ice Creams,No,No,3.2,9,330,Dining
+Sunsadm,No,No,3.7,0,440,Dining
+Grand Village,No,No,3.8,178,600,Buffet
+Swaada Healthy Kitchen,No,No,3.3,0,320,Dining
+Jalsa,Yes,Yes,4.1,775,800,Buffet
+Soms Kitchen & Bakes,No,No,2.9,0,400,Dining
+XO Belgian Waffle,Yes,No,3.7,17,360,Dining
+Sugar Rush,No,No,3.8,39,270,Dining
+Kannadigas Karavali,No,No,3.4,0,280,Dining
+Corner House Ice Cream,No,No,4.3,330,440,Dining
+Kaggis,No,No,3.8,68,280,Dining
+Five Star Chicken,No,No,3.6,58,200,Dining
+My Tea House,Yes,No,3.6,56,660,Cafes
+Spice Elephant,Yes,No,4.1,865,720,Buffet
+Sweet Truth,Yes,No,3.9,33,450,Dining
+Me And My Cake,No,No,3.7,0,500,Dining
+The Vintage Cafe,Yes,No,3.0,60,360,Cafes
+Goa 0 Km,Yes,Yes,3.6,157,800,Dining
+Havyaka Mess,No,No,3.9,28,330,Dining
+Burger King,Yes,No,3.2,71,600,Dining
+Kotian Karavali Restaurant,No,No,3.5,10,300,Dining
+Shree Cool Point,Yes,No,4.1,26,150,Dining
+Chatar Patar,No,No,3.7,63,300,Dining
+Ayda Persian Kitchen,No,No,3.7,42,860,Dining
+New Indraprasta,No,No,3.3,0,150,Dining
+Nandhini Deluxe,No,No,2.6,277,660,Dining
+Wamama,Yes,Yes,4.2,368,800,Other
+Amma - Manae,No,No,3.1,0,400,Dining
+Kaumudis Juoice,No,No,3.3,0,150,Dining
+Krishna Sagar,No,No,3.5,31,180,Dining
+Chatar Patar,No,No,3.7,62,300,Dining
+Woodee Pizza,Yes,No,3.7,175,550,Cafes
+Darkolates,No,No,3.3,0,200,Dining
+San Churro Cafe,Yes,No,3.8,862,720,Cafes
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6,8,800,Buffet
+Cafe Coffee Day,No,No,3.6,29,810,Cafes
+XO Belgian Waffle,Yes,No,3.7,18,440,Dining
+LSD Cafe,No,No,2.9,84,700,Other
+Goa 0 Km,Yes,Yes,3.6,148,720,Dining
+Floured-Baked With Love,No,No,3.8,47,360,Dining
+Anna Kuteera,Yes,No,4.0,771,450,Dining
+Cuppa,No,No,3.3,24,500,Cafes
+Coffee Bytes,No,No,3.1,6,100,Dining
+San Churro Cafe,Yes,No,3.8,983,720,Cafes
+Kolbeh,No,No,3.7,24,450,Dining
+Thanishka Nati And Karavali Style,No,No,3.1,0,400,Dining
+XO Belgian Waffle,Yes,No,3.7,17,440,Dining
+Dessert Rose,No,No,3.5,7,550,Dining
+Havyaka Mess,No,No,3.9,28,300,Dining
+Cafe Shuffle,Yes,Yes,4.2,158,540,Cafes
+Naveen Kabab & Biriyani Mane,No,No,3.2,9,300,Dining
+Behrouz Biryani,Yes,No,3.9,246,650,Dining
+Banashankari Donne Biriyani,Yes,No,3.8,104,300,Dining
+Sea Green Cafe,No,No,3.3,4,550,Cafes
+Ovenstory Pizza,Yes,No,3.9,170,680,Dining
+Goa 0 Km,Yes,Yes,3.6,178,720,Dining
+Hide Out Cafe,No,No,3.7,31,300,Cafes
+Kwality Wall's Swirl's Happiness Station,No,No,2.9,27,200,Dining
+Smacznego,Yes,No,4.2,466,600,Cafes
+Thanco's Natural Ice Creams,No,No,3.2,9,300,Dining
+Sugar Rush,No,No,3.8,38,270,Dining
+San Churro Cafe,Yes,No,3.8,898,800,Buffet
+Vijayalakshmi,Yes,No,3.9,51,180,Dining
+Shree Cool Point,Yes,No,4.1,28,150,Dining
+Kabab Magic,Yes,No,4.1,1751,400,Dining
+Frozen Bottle,Yes,No,4.2,142,440,Dining
+Foodlieious Multi Cuisine,No,No,3.4,0,90,Dining
+Annapooraneshwari Mess,No,No,3.7,0,200,Dining
+Hotboxit,No,No,3.8,37,440,Dining
+Tasty Bytes,Yes,No,3.1,252,300,Dining
+Frozen Bottle,Yes,No,4.2,133,360,Dining
+Nandhini Deluxe,No,No,2.6,292,660,Dining
+Floured-Baked With Love,No,No,3.8,44,440,Dining
+K27 - The Pub,No,No,3.1,29,900,Dining
+Vaishali Deluxe,No,No,3.8,42,700,Dining
+Goa 0 Km,Yes,Yes,3.6,163,800,Dining
+Kabab Magic,Yes,No,4.1,1562,400,Dining
+Penthouse Cafe,Yes,No,4.0,305,630,Other
+Just Bake,No,No,3.4,7,360,Dining
+The Coffee Shack,Yes,Yes,4.2,164,500,Cafes
+Spicy Tandoor,No,No,4.1,0,140,Dining
+The Coffee Shack,Yes,Yes,4.2,160,550,Cafes
+Hari Super Sandwich,No,No,3.2,0,220,Dining
+Kadalu Sea Food Restaurant,Yes,No,3.8,156,450,Dining
+Nandhini Deluxe,No,No,2.6,271,600,Dining
+Vi Ra's Bar and Restaurant,No,No,3.3,59,880,Dining
+Rolls On Wheels,No,No,3.6,272,300,Dining
+Anna Kuteera,Yes,No,4.0,758,450,Dining
+Roving Feast,No,No,4.0,975,500,Dining
+Wamama,Yes,Yes,4.2,371,720,Other
+Just Bake,No,No,3.4,8,440,Dining
+Hotel Andhra Speices,No,No,2.9,0,280,Dining
+Spice Elephant,Yes,No,4.1,744,800,Buffet
+Kidambi's Kitchen,No,No,3.5,56,270,Dining
+Om Sri Vinayaka Chats,No,No,3.6,0,500,Dining
+Namma Brahmin's Idli,Yes,No,3.6,33,90,Dining
+CAFE NOVA,No,No,3.2,11,600,Dining
+Beijing Bites,Yes,No,3.7,736,940,Dining
+Rolls On Wheels,No,No,3.6,299,300,Dining
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4,0,150,Dining
+Catch-up-ino,Yes,No,3.9,121,880,Cafes
+Cake of the Day,No,No,3.7,79,150,Dining
+Cake Bite,No,No,3.4,0,300,Dining
+Chatar Patar,No,No,3.7,59,300,Dining
+Om Sri Vinayaka Chats,No,No,3.6,0,450,Dining
+Swaada Healthy Kitchen,No,No,3.3,0,390,Dining
+Amma - Manae,No,No,3.1,0,360,Dining
+Chickpet Donne Biryani House,No,No,3.7,21,250,Dining
+Chickpet Donne Biryani House,No,No,3.7,22,280,Dining
+Rolls On Wheels,No,No,3.6,320,270,Dining
+T3H Cafe,No,No,3.9,92,270,Cafes
+The Coffee Shack,Yes,Yes,4.2,171,550,Cafes
+Nandhini Deluxe,No,No,2.6,283,600,Dining
+Cafe Shuffle,Yes,Yes,4.2,150,600,Cafes
+Szechuan Dragon,Yes,No,4.2,1606,540,Dining
+Domino's Pizza,Yes,No,3.9,540,800,Dining
+McDonald's,Yes,No,3.9,286,500,Dining
+Kaggis,No,No,3.8,69,220,Dining
+The Vintage Cafe,Yes,No,3.0,64,440,Cafes
+K27 - The Pub,No,No,3.1,28,990,Dining
+The Big O Bakes,No,No,4.0,65,270,Dining
+Srinathji's Cafe,No,No,3.8,151,550,Cafes
+Foodiction,Yes,No,2.8,530,500,Other
+Kidambi's Kitchen,No,No,3.5,52,300,Dining
+Namma Brahmin's Idli,Yes,No,3.6,37,90,Dining
+Roll Magic Fast Food,No,No,3.4,0,220,Dining
+Empire Restaurant,Yes,No,4.4,5352,830,Other
+Timepass Dinner,Yes,No,3.8,264,660,Buffet
+Hide Out Cafe,No,No,3.7,28,330,Cafes
+Kitchen Garden,Yes,No,3.6,239,270,Dining
+Jeet Restaurant,No,Yes,4.0,838,940,Dining
+Woodee Pizza,Yes,No,3.7,177,500,Cafes
+Thanco's Natural Ice Creams,No,No,3.2,8,330,Dining
+Vaishali Deluxe,No,No,3.8,46,770,Dining
+360 Atoms Restaurant And Cafe,Yes,No,3.1,13,360,Cafes
+Katriguppe Donne Biryani,No,No,3.2,4,270,Dining
+Chickpet Donne Biryani House,No,No,3.7,23,250,Dining
+Darbar,No,No,3.0,90,720,Dining
+Cafe Vivacity,Yes,No,3.8,90,650,Cafes
+Sugar Rush,No,No,3.8,38,300,Dining
+Cake of the Day,No,No,3.7,71,140,Dining
+Cafe Coffee Day,No,No,3.6,28,900,Cafes
+Vijayalakshmi,Yes,No,3.9,42,180,Dining
+Caf-Eleven,No,No,4.0,458,400,Cafes
+Wamama,Yes,Yes,4.2,336,720,Other
+Upahar Sagar,No,No,3.8,36,320,Dining
+Ovenstory Pizza,Yes,No,3.9,167,830,Dining
+Biryanis And More,Yes,No,4.0,653,750,Dining
+New Mangalore Lunch Home,No,No,3.3,7,180,Dining
+Sugar Rush,No,No,3.8,39,300,Dining
+Sunsadm,No,No,3.7,0,400,Dining
+Recipe,Yes,No,4.0,843,400,Dining
+My Tea House,Yes,No,3.6,56,600,Cafes
+The Vintage Cafe,Yes,No,3.0,68,360,Cafes
+CAFE NOVA,No,No,3.2,10,660,Cafes
+Penthouse Cafe,Yes,No,4.0,320,630,Other
+Chaatimes,Yes,No,3.8,124,200,Dining
+Chatar Patar,No,No,3.7,71,330,Dining
+Chickpet Donne Biryani House,No,No,3.7,20,280,Dining
+Jalsa,Yes,Yes,4.1,799,720,Buffet
+Cafe Shuffle,Yes,Yes,4.2,141,660,Cafes
+San Churro Cafe,Yes,No,3.8,946,800,Cafes
+Wamama,Yes,Yes,4.2,354,800,Other
+Nandhini Deluxe,No,No,2.6,307,540,Dining
+Rolls On Wheels,No,No,3.6,298,270,Dining
+The Coffee Shack,Yes,Yes,4.2,167,550,Cafes
+Kitchen Garden,Yes,No,3.6,244,300,Dining
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6,9,720,Buffet
+Onesta,Yes,Yes,4.6,2448,660,Cafes
+Dessert Rose,No,No,3.5,7,450,Dining
+CAFE NOVA,No,No,3.2,10,540,Dining
+Vi Ra's Bar and Restaurant,No,No,3.3,66,720,Dining
+McDonald's,Yes,No,3.9,309,450,Dining
+Wood Stove,No,No,3.4,0,140,Dining
+Ruchi Maayaka,No,No,3.3,9,110,Dining
+Penthouse Cafe,Yes,No,4.0,332,630,Other
+Kwality Wall's Swirl's Happiness Station,No,No,2.9,25,200,Dining
+Kolbeh,No,No,3.7,23,500,Dining
+Petoo,No,No,3.7,21,450,Dining
+XO Belgian Waffle,Yes,No,3.7,16,440,Dining
+Thanco's Natural Ice Creams,No,No,3.2,10,270,Dining
+Gawdaru Mane Beriyani,No,No,3.3,0,300,Dining
+The Big O Bakes,No,No,4.0,64,300,Dining
+Onesta,Yes,Yes,4.6,2744,600,Cafes
+Banashankari Donne Biriyani,Yes,No,3.8,106,270,Dining
+Kadalu Sea Food Restaurant,Yes,No,3.8,139,450,Dining
+Nandhini Deluxe,No,No,2.6,270,660,Dining
+Peppy Peppers,No,No,4.2,249,880,Other
+Aramane Donne Biriyani,No,No,2.9,0,140,Dining
+Empire Restaurant,Yes,No,4.4,4884,750,Other
+Chatar Patar,No,No,3.7,60,300,Dining
+Jalsa,Yes,Yes,4.1,708,720,Buffet
+Peppy Peppers,No,No,4.2,260,800,Other
+Addhuri Udupi Bhojana,No,No,3.7,94,270,Buffet
+Devanna Dum Biriyani Centre,Yes,No,3.6,31,300,Dining
+Kotian Karavali Restaurant,No,No,3.5,11,300,Dining
+Coffee Tindi,Yes,No,3.8,69,220,Cafes
+Atithi Point Ande Ka Funda,No,No,3.1,27,160,Dining
+Hotboxit,No,No,3.8,33,360,Dining
+Mane Thindi,No,No,3.7,124,220,Dining
+Ruchi Maayaka,No,No,3.3,8,100,Dining
+Szechuan Dragon,Yes,No,4.2,1537,660,Dining
+Coffee Shopee,No,No,3.4,0,220,Dining
+Corner House Ice Cream,No,No,4.3,359,440,Dining
+Melting Melodies,No,No,3.3,0,110,Dining
+Polar Bear,Yes,No,3.8,75,400,Dining
+Cafe Shuffle,Yes,Yes,4.2,152,600,Cafes
+Nandhini Deluxe,No,No,2.6,292,540,Dining
+Anna Kuteera,Yes,No,4.0,719,450,Dining
+Faasos,Yes,No,4.2,419,550,Other
+Recipe,Yes,No,4.0,868,450,Dining
+Jeet Restaurant,No,Yes,4.0,850,760,Dining
+Hotboxit,No,No,3.8,36,400,Dining
+Rolls On Wheels,No,No,3.6,278,270,Dining
+Krishna Sagar,No,No,3.5,31,220,Dining
+Just Bake,No,No,3.4,9,440,Dining
+Beijing Bites,Yes,No,3.7,732,850,Dining
+Catch-up-ino,Yes,No,3.9,133,800,Cafes
+New Mangalore Lunch Home,No,No,3.3,6,220,Dining
+Beijing Bites,Yes,No,3.7,679,850,Dining
+Beijing Bites,Yes,No,3.7,701,940,Dining
+Aramane Donne Biriyani,No,No,2.9,0,160,Dining
+San Churro Cafe,Yes,No,3.8,849,800,Buffet
+Grand Village,No,No,3.8,172,600,Buffet
+Ruchi Maayaka,No,No,3.3,7,100,Dining
+Smacznego,Yes,No,4.2,488,500,Cafes
+Penthouse Cafe,Yes,No,4.0,334,700,Other
+Coffee Tindi,Yes,No,3.8,75,200,Cafes
+Smacznego,Yes,No,4.2,523,500,Cafes
+The Big O Bakes,No,No,4.0,61,300,Dining
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,568,150,Dining
+Roll Magic Fast Food,No,No,3.4,0,200,Dining
+Chinese Kitchen,Yes,No,3.8,57,140,Dining
+Szechuan Dragon,Yes,No,4.2,1647,600,Dining
+Catch-up-ino,Yes,No,3.9,134,720,Cafes
+Chatar Patar,No,No,3.7,59,270,Dining
+Wamama,Yes,Yes,4.2,353,800,Other
+Onesta,Yes,Yes,4.6,2380,600,Cafes
+Thanco's Natural Ice Creams,No,No,3.2,9,270,Dining
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6,8,720,Buffet
+Cafe Shuffle,Yes,Yes,4.2,136,660,Cafes
+Kaumudis Juoice,No,No,3.3,0,160,Dining
+Szechuan Dragon,Yes,No,4.2,1499,540,Dining
+Corner House Ice Cream,No,No,4.3,341,400,Dining
+The Biryani Cafe,No,No,4.1,478,270,Dining
+Timepass Dinner,Yes,No,3.8,271,540,Buffet
+Grand Village,No,No,3.8,179,540,Buffet
+Atithi Point Ande Ka Funda,No,No,3.1,29,150,Dining
+Caf-Eleven,No,No,4.0,465,500,Cafes
+Floured-Baked With Love,No,No,3.8,45,400,Dining
+Fast And Fresh,Yes,No,2.8,85,360,Dining
+Devanna Dum Biriyani Centre,Yes,No,3.6,30,270,Dining
+Kidambi's Kitchen,No,No,3.5,55,330,Dining
+Ayda Persian Kitchen,No,No,3.7,35,950,Dining
+K27 - The Pub,No,No,3.1,30,900,Dining
+Biryanis And More,Yes,No,4.0,618,750,Dining
+Spice 9,No,No,3.4,8,330,Dining
+Srinathji's Cafe,No,No,3.8,155,500,Cafes
+Jeet Restaurant,No,Yes,4.0,754,760,Dining
+Anna Kuteera,Yes,No,4.0,712,450,Dining
+Me And My Cake,No,No,3.7,0,450,Dining
+Chinese Kitchen,Yes,No,3.8,58,160,Dining
+Penthouse Cafe,Yes,No,4.0,324,700,Other
+Upahar Sagar,No,No,3.8,38,320,Dining
+Fast And Fresh,Yes,No,2.8,91,400,Dining
+Behrouz Biryani,Yes,No,3.9,246,720,Dining
+The Good Bowl,Yes,No,3.6,6,550,Dining
+Kotian Karavali Restaurant,No,No,3.5,10,330,Dining
+Corner House Ice Cream,No,No,4.3,378,400,Dining
+Faasos,Yes,No,4.2,378,500,Other
+Corner House Ice Cream,No,No,4.3,332,400,Dining
+The Big O Bakes,No,No,4.0,72,330,Dining
+Shree Cool Point,Yes,No,4.1,26,140,Dining
+Penthouse Cafe,Yes,No,4.0,353,630,Other
+Vi Ra's Bar and Restaurant,No,No,3.3,56,720,Dining
+Hotboxit,No,No,3.8,34,440,Dining
+San Churro Cafe,Yes,No,3.8,984,880,Cafes
+Cakes & Slices,No,No,3.5,14,300,Dining
+My Tea House,Yes,No,3.6,65,660,Cafes
+Roving Feast,No,No,4.0,971,400,Dining
+Vijayalakshmi,Yes,No,3.9,47,200,Dining
+Darbar,No,No,3.0,98,800,Dining
+Srinathji's Cafe,No,No,3.8,147,500,Cafes
+Roving Feast,No,No,4.0,1036,500,Dining
+Chickpet Donne Biryani House,No,No,3.7,22,250,Dining
+Chatar Patar,No,No,3.7,69,270,Dining
+Foodiction,Yes,No,2.8,489,500,Other
+Aarush's Food Plaza,No,No,3.4,0,180,Dining
+XO Belgian Waffle,Yes,No,3.7,16,400,Dining
+Parjanya Chat Zone,No,No,3.3,17,200,Dining
+Kitchen Garden,Yes,No,3.6,247,270,Dining
+Darbar,No,No,3.0,99,880,Dining
+The Coffee Shack,Yes,Yes,4.2,148,450,Cafes
+Kadalu Sea Food Restaurant,Yes,No,3.8,142,500,Dining
+Domino's Pizza,Yes,No,3.9,586,720,Dining
+Goa 0 Km,Yes,Yes,3.6,155,720,Dining
+Coffee Tindi,Yes,No,3.8,74,200,Cafes
+Kirthi's Biryani,Yes,No,3.8,135,630,Cafes
+Banashankari Nati Style,No,No,2.9,0,390,Dining
+Floured-Baked With Love,No,No,3.8,42,400,Dining
+Domino's Pizza,Yes,No,3.9,592,800,Dining
+Tasty Bytes,Yes,No,3.1,237,270,Dining
+Atithi Point Ande Ka Funda,No,No,3.1,26,150,Dining
+Onesta,Yes,Yes,4.6,2791,540,Other
+Anna Kuteera,Yes,No,4.0,758,400,Dining
+The Vintage Cafe,Yes,No,3.0,59,400,Cafes
+Ayda Persian Kitchen,No,No,3.7,38,860,Dining
+Roving Feast,No,No,4.0,944,400,Dining
+Chaatimes,Yes,No,3.8,131,180,Dining
+Coffee Tindi,Yes,No,3.8,72,220,Cafes
+Jalsa,Yes,Yes,4.1,847,720,Buffet
+Timepass Dinner,Yes,No,3.8,290,600,Buffet
+Empire Restaurant,Yes,No,4.4,4636,680,Other
+The Biryani Cafe,No,No,4.1,569,270,Dining
+Vijayalakshmi,Yes,No,3.9,42,220,Dining
+Sugar Rush,No,No,3.8,42,270,Dining
+Mohitesh Hut Roll,No,No,3.3,0,150,Dining
+Behrouz Biryani,Yes,No,3.9,236,720,Dining
+New Mangalore Lunch Home,No,No,3.3,7,220,Dining
+Floured-Baked With Love,No,No,3.8,41,440,Dining
+Szechuan Dragon,Yes,No,4.2,1625,600,Dining
+Atithi Point Ande Ka Funda,No,No,3.1,31,160,Dining
+Maruthi Davangere Benne Dosa,Yes,No,4.0,18,150,Dining
+Spice 9,No,No,3.4,9,270,Dining
+Shree Cool Point,Yes,No,4.1,29,150,Dining
+Cake of the Day,No,No,3.7,82,150,Dining
+Addhuri Udupi Bhojana,No,No,3.7,85,300,Buffet
+Chaatimes,Yes,No,3.8,126,180,Dining
+San Churro Cafe,Yes,No,3.8,955,720,Buffet
+Rolls On Wheels,No,No,3.6,271,300,Dining
+Rolls On Wheels,No,No,3.6,304,270,Dining
+Anna Kuteera,Yes,No,4.0,792,500,Dining
+The Vintage Cafe,Yes,No,3.0,62,360,Cafes
+The Good Bowl,Yes,No,3.6,6,450,Dining
+Burger King,Yes,No,3.2,76,600,Dining
+Havyaka Mess,No,No,3.9,27,270,Dining
+Cafe Coffee Day,No,No,3.6,30,900,Cafes
+Village Café,Yes,No,4.1,403,500,Cafes
+Goa 0 Km,Yes,Yes,3.6,155,800,Dining
+Burger King,Yes,No,3.2,77,540,Dining
+Chatar Patar,No,No,3.7,65,330,Dining
+FreshMenu,Yes,No,3.9,663,400,Dining
+Parimala Sweets,No,No,3.5,14,180,Dining
+Kadalu Sea Food Restaurant,Yes,No,3.8,158,550,Dining
+The Big O Bakes,No,No,4.0,66,300,Dining
+Recipe,Yes,No,4.0,772,450,Dining
+Cafe Vivacity,Yes,No,3.8,89,580,Cafes
+Polar Bear,Yes,No,3.8,77,440,Dining
+Behrouz Biryani,Yes,No,3.9,230,650,Dining
+Sugar Rush,No,No,3.8,40,330,Dining
+Dessert Rose,No,No,3.5,8,550,Dining
+Behrouz Biryani,Yes,No,3.9,221,720,Dining
+Ovenstory Pizza,Yes,No,3.9,184,830,Dining
+Five Star Chicken,No,No,3.6,56,200,Dining
+Vi Ra's Bar and Restaurant,No,No,3.3,62,800,Dining
+McDonald's,Yes,No,3.9,271,550,Dining
+Cafe Shuffle,Yes,Yes,4.2,148,660,Cafes
+Onesta,Yes,Yes,4.6,2422,660,Cafes
+Jalsa,Yes,Yes,4.1,828,800,Buffet
+Ruchi Maayaka,No,No,3.3,9,90,Dining
+Biryanis And More,Yes,No,4.0,573,680,Dining
+Sweet Truth,Yes,No,3.9,36,450,Dining
+Cafe Shuffle,Yes,Yes,4.2,139,600,Cafes
+Behrouz Biryani,Yes,No,3.9,218,650,Dining
+My Tea House,Yes,No,3.6,61,600,Cafes
+Grand Village,No,No,3.8,166,600,Buffet
+Kolbeh,No,No,3.7,24,500,Dining
+Ruchi Maayaka,No,No,3.3,8,110,Dining
+Jalsa,Yes,Yes,4.1,769,720,Buffet
+Darbar,No,No,3.0,92,880,Dining
+Chatar Patar,No,No,3.7,65,300,Dining
+McDonald's,Yes,No,3.9,306,500,Dining
+Anna Kuteera,Yes,No,4.0,746,500,Dining
+Chickpet Donne Biryani House,No,No,3.7,22,220,Dining
+Recipe,Yes,No,4.0,804,450,Dining
+Sweet Truth,Yes,No,3.9,35,500,Dining
+Tasty Bytes,Yes,No,3.1,261,300,Dining
+Bengaluru Coffee House,Yes,No,4.1,217,300,Dining
+Shree Cool Point,Yes,No,4.1,31,160,Dining
+Kitchen Garden,Yes,No,3.6,267,270,Dining
+Bengaluru Coffee House,Yes,No,4.1,200,330,Dining
+Parjanya Chat Zone,No,No,3.3,15,200,Dining
+FreshMenu,Yes,No,3.9,684,450,Dining
+Chinese Kitchen,Yes,No,3.8,59,160,Dining
+Sri Murari Family Restaurant,No,No,2.9,0,250,Dining
+Chinese Kitchen,Yes,No,3.8,58,150,Dining
+Beijing Bites,Yes,No,3.7,684,940,Dining
+K27 - The Pub,No,No,3.1,32,990,Dining
+Kitchen Garden,Yes,No,3.6,233,300,Dining
+Chinese Kitchen,Yes,No,3.8,54,140,Dining
+Cake of the Day,No,No,3.7,78,150,Dining
+San Churro Cafe,Yes,No,3.8,918,800,Cafes
+Rolls On Wheels,No,No,3.6,277,330,Dining
+Chaatimes,Yes,No,3.8,133,200,Dining
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4,0,160,Dining
+Frozen Bottle,Yes,No,4.2,144,360,Dining
+Caf-Eleven,No,No,4.0,438,400,Cafes
+San Churro Cafe,Yes,No,3.8,961,880,Buffet
+Corner House Ice Cream,No,No,4.3,313,400,Dining
+Corner House Ice Cream,No,No,4.3,345,400,Dining
+Domino's Pizza,Yes,No,3.9,520,800,Dining
+Darbar,No,No,3.0,93,880,Dining
+FreshMenu,Yes,No,3.9,670,450,Dining
+Five Star Chicken,No,No,3.6,55,180,Dining
+Onesta,Yes,Yes,4.6,2764,600,Cafes
+Grand Village,No,No,3.8,182,600,Buffet
+Cake of the Day,No,No,3.7,83,140,Dining
+Ayda Persian Kitchen,No,No,3.7,38,1040,Dining
+Onesta,Yes,Yes,4.6,2627,600,Cafes
+Devanna Dum Biriyani Centre,Yes,No,3.6,26,270,Dining
+Hide Out Cafe,No,No,3.7,34,330,Cafes
+Spice Elephant,Yes,No,4.1,813,800,Buffet
+Chill Out,No,No,3.8,0,110,Dining
+Coffee Tindi,Yes,No,3.8,71,200,Cafes
+New Mangalore Lunch Home,No,No,3.3,6,180,Dining
+Onesta,Yes,Yes,4.6,2624,540,Cafes
+Darbar,No,No,3.0,102,720,Dining
+Atithi Point Ande Ka Funda,No,No,3.1,29,140,Dining
+Cuppa,No,No,3.3,24,600,Cafes
+Kaumudis Juoice,No,No,3.3,0,140,Dining
+Spice Elephant,Yes,No,4.1,787,800,Buffet
+T3H Cafe,No,No,3.9,95,300,Cafes
+Jeet Restaurant,No,Yes,4.0,844,850,Dining
+Cake of the Day,No,No,3.7,84,150,Dining
+Kadalu Sea Food Restaurant,Yes,No,3.8,153,500,Dining
+Addhuri Udupi Bhojana,No,No,3.7,89,300,Buffet
+Faasos,Yes,No,4.2,415,500,Other
+Kabab Magic,Yes,No,4.1,1577,440,Dining
+Cake of the Day,No,No,3.7,76,150,Dining
+Biryanis And More,Yes,No,4.0,671,830,Dining
+Timepass Dinner,Yes,No,3.8,306,600,Buffet
+Domino's Pizza,Yes,No,3.9,501,880,Dining
+Rolls On Wheels,No,No,3.6,302,270,Dining
+Sweet Truth,Yes,No,3.9,34,450,Dining
+Caf-Eleven,No,No,4.0,424,450,Cafes
+Darbar,No,No,3.0,104,720,Dining
+Goa 0 Km,Yes,Yes,3.6,170,800,Dining
+Ruchi Maayaka,No,No,3.3,7,90,Dining
+Onesta,Yes,Yes,4.6,2553,660,Other
+FreshMenu,Yes,No,3.9,594,500,Dining
+Faasos,Yes,No,4.2,381,500,Other
+Peppy Peppers,No,No,4.2,226,880,Other
+Jalsa,Yes,Yes,4.1,759,720,Buffet
+Goa 0 Km,Yes,Yes,3.6,172,880,Dining
+Chickpet Donne Biryani House,No,No,3.7,21,280,Dining
+Goa 0 Km,Yes,Yes,3.6,167,800,Dining
+Catch-up-ino,Yes,No,3.9,121,800,Cafes
+LSD Cafe,No,No,2.9,76,700,Other
+Kitchen Garden,Yes,No,3.6,228,300,Dining
+Srinathji's Cafe,No,No,3.8,135,500,Cafes
+Mane Thindi,No,No,3.7,121,220,Dining
+Kidambi's Kitchen,No,No,3.5,52,270,Dining
+Upahar Sagar,No,No,3.8,40,320,Dining
+Wamama,Yes,Yes,4.2,327,880,Other
+Five Star Chicken,No,No,3.6,55,200,Dining
+Biryanis And More,Yes,No,4.0,656,750,Dining
+Namma Brahmin's Idli,Yes,No,3.6,31,110,Dining
+Caf-Eleven,No,No,4.0,419,500,Cafes
+Woodee Pizza,Yes,No,3.7,180,500,Cafes
+Meghana Foods,Yes,No,4.4,4287,660,Dining
+Gawdaru Mane Beriyani,No,No,3.3,0,270,Dining
+Grand Village,No,No,3.8,155,660,Buffet
+Recipe,Yes,No,4.0,850,400,Dining
+Cake Bite,No,No,3.4,0,330,Dining
+Catch-up-ino,Yes,No,3.9,124,720,Cafes
+The Coffee Shack,Yes,Yes,4.2,167,500,Cafes
+Frozen Bottle,Yes,No,4.2,137,400,Dining
+Banashankari Donne Biriyani,Yes,No,3.8,104,330,Dining
+Kadalu Sea Food Restaurant,Yes,No,3.8,141,550,Dining
+Empire Restaurant,Yes,No,4.4,4670,830,Other
+Darkolates,No,No,3.3,0,180,Dining
+San Churro Cafe,Yes,No,3.8,1002,800,Cafes
+Polar Bear,Yes,No,3.8,71,400,Dining
+Krishna Sagar,No,No,3.5,31,200,Dining
+Frozen Bottle,Yes,No,4.2,148,400,Dining
+Chinese Kitchen,Yes,No,3.8,56,150,Dining
+The Vintage Cafe,Yes,No,3.0,62,400,Cafes
+The Biryani Cafe,No,No,4.1,520,300,Dining
+Spice 9,No,No,3.4,8,300,Dining
+The Big O Bakes,No,No,4.0,61,270,Dining
+Naveen Kabab & Biriyani Mane,No,No,3.2,10,300,Dining
