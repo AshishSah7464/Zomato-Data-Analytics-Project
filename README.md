@@ -1,54 +1,82 @@
-# Zomato Restaurant Data Analytics & Business Intelligence Project
+# 🍽️ Zomato Restaurant Data Analytics & Business Intelligence Project
 
-A comprehensive Data Analytics and Business Intelligence end-to-end project analyzing **780 restaurant records** to uncover key insights into pricing, customer ratings, votes, online ordering, and table booking availability.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%2F%20PostgreSQL-4479A1?logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![ReportLab](https://img.shields.io/badge/ReportLab-PDF%20Automation-FF6F61?logo=adobeacrobatreader&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
----
-
-## 📊 Executive Summary & Key KPIs
-
-| Key Performance Indicator | Value |
-| :--- | :---: |
-| **Total Restaurants Analyzed** | **780** |
-| **Average Rating** | **3.69 / 5** |
-| **Total Customer Votes** | **253,772** |
-| **Average Cost for Two** | **₹458** |
-| **Median Cost for Two** | **₹440** |
-| **Median Rating** | **3.80 / 5** |
-
-### Key Findings
-* **Dining Dominance**: Dining restaurants represent **70.0%** of all restaurants in the dataset.
-* **Online Ordering Impact**: Restaurants offering online ordering show an average rating difference of **+0.34 points** compared to non-online ordering establishments.
-* **Table Booking Impact**: Establishments providing table reservations show an average rating difference of **+0.51 points**.
-* **Engagement Correlation**: Customer votes have a **0.49 correlation** with restaurant ratings, proving stronger than cost correlation (**0.25**).
+An end-to-end Data Analytics and Business Intelligence project analyzing **780 restaurant records** to uncover critical factors associated with restaurant success, customer engagement, pricing strategies, online ordering, and table booking availability.
 
 ---
 
-## 📁 Repository Structure
+## 📸 Power BI Dashboard Preview
+
+![Zomato Power BI Dashboard](powerbi/zomato_dashboard_screenshot.png)
+
+---
+
+## 📊 Executive Summary & Key Performance Indicators (KPIs)
+
+| Key Performance Indicator | Value | Business Insight |
+| :--- | :---: | :--- |
+| **Total Restaurants Analyzed** | **780** | Cleaned dataset post-preprocessing |
+| **Average Customer Rating** | **3.69 / 5** | Overall industry rating baseline |
+| **Total Customer Votes** | **253,772** | High overall market engagement |
+| **Average Cost for Two** | **₹458** | Affordable mass-market dining focus |
+| **Median Cost for Two** | **₹440** | Representative mid-range cost point |
+| **Median Customer Rating** | **3.80 / 5** | Benchmark rating target |
+
+---
+
+## 🔍 Key Analytical Findings
+
+1. **Dining Category Dominance**: Dining restaurants represent **70.0%** of all restaurants in the dataset (546 establishments), followed by Cafes (**16.5%**), Other (**6.9%**), and Buffets (**6.5%**).
+2. **Online Ordering Rating Uplift**: Establishments offering online ordering achieve an average rating of **3.88 / 5** compared to **3.54 / 5** for non-online ordering restaurants (a **+0.34 point rating advantage**).
+3. **Table Reservation Advantage**: Establishments featuring table reservation functionality show an average rating of **4.16 / 5** vs **3.65 / 5** for non-booking restaurants (a **+0.51 point rating advantage**).
+4. **Customer Engagement vs. Pricing Correlation**: Customer votes demonstrate a **0.49 correlation** with ratings, proving significantly stronger than pricing correlation (**0.25**), indicating customer engagement is a key driver of restaurant reputation.
+
+---
+
+## 📈 Visual Exploratory Data Analysis (EDA)
+
+| Cost vs. Rating Scatter Plot | Correlation Heatmap |
+| :---: | :---: |
+| ![Cost vs Rating](visualization/Cost_vs_Rating.png) | ![Correlation Heatmap](visualization/Correlation_Heatmap.png) |
+
+| Restaurant Distribution by Type | Customer Votes vs. Rating |
+| :---: | :---: |
+| ![Restaurant Distribution](visualization/restaurant_type_count.png) | ![Votes vs Rating](visualization/Restaurants_by_Votes.png) |
+
+---
+
+## 🗂️ Project Repository Structure
 
 ```
 Zomato/
-├── README.md                             # Project documentation
-├── .gitignore                            # Git ignore rules
+├── README.md                             # Comprehensive GitHub documentation
+├── .gitignore                            # Standard Git ignore configuration
 ├── data/
 │   ├── clean/
-│   │   └── Zomato_cleaned.csv            # Cleaned & processed dataset (780 records)
+│   │   └── Zomato_cleaned.csv            # Processed dataset (780 records, 7 columns)
 │   └── raw/
-│       └── Zomato.csv                    # Raw initial dataset (1,000 records)
+│       └── Zomato.csv                    # Raw original dataset (1,000 records)
 ├── notebooks/
-│   ├── data_cleaning.ipynb               # Data cleaning & preprocessing notebook
+│   ├── data_cleaning.ipynb               # Data preprocessing & standardization
 │   ├── data_validations.ipynb            # Data integrity validation checks
-│   └── EDA.ipynb                         # Exploratory Data Analysis notebook
+│   └── EDA.ipynb                         # Exploratory Data Analysis & visualization
 ├── powerbi/
 │   ├── zomato.pbix                       # Interactive Power BI dashboard file
-│   └── zomato_dashboard_screenshot.png   # Preview screenshot of the dashboard
+│   └── zomato_dashboard_screenshot.png   # Dashboard visual preview
 ├── reports/
-│   ├── Zomato_Analysis_Report.pdf        # Automated final PDF report
-│   ├── Zomato_Analysis_Report.md         # Final Markdown report
+│   ├── Zomato_Analysis_Report.pdf        # Automated compiled PDF report
+│   ├── Zomato_Analysis_Report.md         # Formatted Markdown report
 │   └── generate_report.py                # Automated Python report generator script
 ├── sql/
 │   ├── business_queries.sql              # 16+ analytical SQL business queries
-│   └── zomato_database.sql               # Database DDL schema & table creation
-└── visualization/                        # Exported EDA visualization charts (PNG)
+│   └── zomato_database.sql               # Database DDL schema setup
+└── visualization/                        # Exported high-resolution chart images
     ├── average_rating.png
     ├── Correlation_Heatmap.png
     ├── Cost_Distribution.png
@@ -64,48 +92,58 @@ Zomato/
 
 ---
 
-## 🛠️ Technology Stack & Tools
+## 💻 SQL Business Queries Preview
 
-* **Programming Language**: Python 3.x
-* **Data Processing & Analysis**: Pandas, NumPy
-* **Data Visualization**: Matplotlib, Seaborn
-* **Database & SQL**: MySQL / PostgreSQL compatible DDL & Analytical SQL Queries
-* **Business Intelligence Dashboard**: Power BI
-* **PDF Report Automation**: ReportLab
+The `sql/business_queries.sql` script contains 16+ analytical queries for relational database engines:
+
+```sql
+-- Query: Top-rated budget restaurants with strong customer engagement (Rating >= 4.0, Cost <= ₹500)
+SELECT 
+    name,
+    rate,
+    votes,
+    approx_cost
+FROM zomato_restaurants
+WHERE rate >= 4.0
+  AND approx_cost <= 500
+ORDER BY rate DESC, votes DESC;
+```
 
 ---
 
-## 🚀 Getting Started & Execution
+## ⚙️ How to Run the Project Locally
 
-### 1. Prerequisites
-Ensure Python 3.8+ is installed on your system along with the required libraries:
+### 1. Clone the Repository
+```bash
+git clone https://github.com/AshishSah7464/Zomato-Data-Analytics-Project.git
+cd Zomato-Data-Analytics-Project
+```
 
+### 2. Install Dependencies
 ```bash
 pip install pandas numpy matplotlib seaborn reportlab
 ```
 
-### 2. Running Data Cleaning & EDA Notebooks
-Open Jupyter Notebook or VS Code to run the notebooks in order:
-1. `notebooks/data_cleaning.ipynb`
-2. `notebooks/data_validations.ipynb`
-3. `notebooks/EDA.ipynb`
-
-### 3. Automated PDF & Markdown Report Generation
-To regenerate the full PDF and Markdown reports automatically:
-
+### 3. Run Notebooks & Report Generation
+* Execute Jupyter Notebooks inside `notebooks/` directory.
+* Run the automated PDF generator:
 ```bash
 python reports/generate_report.py
 ```
 
-#### Optional Flags:
-- Skip Data Cleaning section: `python reports/generate_report.py --skip-cleaning`
-- Skip EDA section: `python reports/generate_report.py --skip-eda`
-- Skip both Data Cleaning & EDA: `python reports/generate_report.py --skip-eda-cleaning`
+---
+
+## 💡 Strategic Business Recommendations
+
+1. **Onboard Digital Ordering Channels**: Restaurants lacking online ordering should implement delivery integration to capitalize on the **+0.34 point rating advantage**.
+2. **Enable Table Booking Options**: Dine-in establishments targeting premium customer segments can enhance customer convenience and achieve higher overall satisfaction (**+0.51 rating uplift**).
+3. **Prioritize Customer Engagement**: Actively encourage customer reviews, votes, and feedback, as engagement correlates much more strongly with higher ratings (**0.49**) than price point (**0.25**).
+4. **Differentiate in the Dining Segment**: Because Dining represents **70%** of the market share, targeted operational improvements in dining service offer the largest growth potential.
 
 ---
 
-## 💡 Business Recommendations
+## 📜 License & Credits
 
-1. **Adopt Online Ordering**: Restaurants currently lacking online ordering should onboard digital food platforms to boost visibility and customer feedback.
-2. **Implement Table Reservations**: Dine-in restaurants can drive customer satisfaction (+0.51 rating uplift) by introducing reservation options.
-3. **Focus on Engagement over Pricing**: Because votes correlate strongly with high ratings (0.49), restaurants should actively encourage customer reviews and feedback.
+* **Author**: [Ashish Sah](https://github.com/AshishSah7464)
+* **Dataset**: Zomato Restaurant Data
+* **License**: MIT License
